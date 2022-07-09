@@ -19,7 +19,7 @@ int main() {
     }
 
     if(outOfGuesses) {
-        cout << "You Lose!"
+        cout << "You Lose!";
     } else {
         cout << "You win!";
     }
